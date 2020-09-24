@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------
  * PROCESSAMENTO DE IMAGEM -                                               
  * Atividade 3 - Decodificador Huffman - Base64
- * Aluno: 
+ * Aluno: Carlos Eduardo Pavão Aureliano
  *--------------------------------------------------------------*/
 
 #include <stdio.h>

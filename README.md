@@ -10,7 +10,8 @@ This program is a study of image processing, that has a intention to convert a H
 
 ## Authorship
 
-Author: Carlos Eduardo Pavão Aureliano.
+Code Author: Carlos Eduardo Pavão Aureliano.
+Image Author: Luiz Eduardo da Silva.
 
 
 ## &#128231; Contact
